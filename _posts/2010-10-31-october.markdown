@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "October 2010"
+date:   2010-10-31 09:00:00
+---
+
+In October 2010:
+
+* [Adam G][adam-g] wrote a poem about the joy of [your wife going out](http://adrokspoems.wordpress.com/2010/10/01/lone-stranger/) for the night.
+
+* [Andy R][andy-r] released [a new single](http://paganwandererlu.wordpress.com/2010/10/05/chemicals-like-you-single-out-this-week/) (and an accompanying [video](http://paganwandererlu.wordpress.com/2010/10/19/chemicals-like-you-video/)) and got a [Bandcamp account](http://paganwandererlu.wordpress.com/2010/10/26/bandcamp/).
+
+* [Bryn][bryn] found [bilingual blogging](http://randomlyevil.org.uk/2010/10/11/ddwyieithog-bilingual/) difficult.
+
+* [Dan][dan] tried to explain why [XML!=JSON](http://www.scatmania.org/2010/10/13/parsing-json/), found quirks with [timezones](http://www.scatmania.org/2010/10/14/timezones/), showed [pride in the BBC](http://www.scatmania.org/2010/10/17/im-proud-of-the-bbc/), and [visited Aberystwyth](http://www.scatmania.org/2010/10/22/it-is-windy-in-aberystwyth/) on a windy day.
+
+* [JTA][jta] started a [new job](http://blog.electricquaker.co.uk/2010/10/01/new-job/), and had [an eye test](http://blog.electricquaker.co.uk/2010/10/06/assorted-things/), among other things. He and [Ruth][ruth] talked about [gifts](http://www.r-jta.info/blog/2010/10/the-gift-list/) for their wedding and about how [Ruth][ruth] [injured herself](http://www.r-jta.info/blog/2010/10/the-gift-list/) making wedding invitations.
+
+* [Kit][kit] sold [a lot of wine](http://reaperkit.wordpress.com/2010/10/13/will-power/).
+
+* [Liz][liz] returned [to work](http://norasdollhouse.livejournal.com/108817.html) after her holidays, and caused herself [an injury](http://norasdollhouse.livejournal.com/109070.html) in an embarassing place.
+
+* [Matt R][matt-r] talked about Rolf Harris' [Two Little Boys](http://matt-inthe-hat.livejournal.com/48183.html), and [stalked](http://matt-inthe-hat.livejournal.com/48476.html) somebody on Facebook.
+
+* [Paul][paul] proposed [fancy dress](http://blog.pacifist.co.uk/2010/10/05/go-ape/) for Go Ape!, ordered [pizza online](http://blog.pacifist.co.uk/2010/10/09/flashing-pizza/), was [distressed](http://blog.pacifist.co.uk/2010/10/12/tree/) by a tree being felled, put [ASSA's Shibboleth](http://blog.pacifist.co.uk/2010/10/21/assa/) on YouTube, reviewed [nine albums](http://blog.pacifist.co.uk/2010/10/28/ninen-albums/), and looked forward to [a job interview](http://blog.pacifist.co.uk/2010/10/28/job-interview/).
+
+* [Sian][sian] shared tips on [snaring a millionaire](http://elgingerbread.wordpress.com/2010/10/05/how-to-snare-a-millionaire/).
+
+
+[adam-g]:  http://strokeyadam.livejournal.com/
+[adam-w]:  http://www.ad-space.org.uk/
+[andy-k]:  http://theguidemark3.livejournal.com/
+[andy-r]:  http://selfdoubtgun.wordpress.com/
+[beth]:    http://littlegreenbeth.livejournal.com/
+[bryn]:    http://randomlyevil.org.uk/
+[claire]:  http://nowebsite.co.uk/blog/
+[dan]:     http://www.scatmania.org/
+[ele]:     http://ele-is-crazy.livejournal.com/
+[fiona]:   http://fionafish.wordpress.com/
+[hayley]:  http://leelee1983.livejournal.com/
+[jen]:     http://scleip.livejournal.com/
+[jimmy]:   http://vikingjim.livejournal.com/
+[jta]:     http://blog.electricquaker.co.uk/
+[kit]:     http://reaperkit.wordpress.com/
+[liz]:     http://norasdollhouse.livejournal.com/
+[malbo21]: http://malbo21.wordpress.com/
+[matt-p]:  http://myzelik.livejournal.com/
+[matt-r]:  http://matt-inthe-hat.livejournal.com/
+[paul]:    http://blog.pacifist.co.uk/
+[penny]:   http://thepennyfaerie.livejournal.com/
+[pete]:    http://loonybin345.livejournal.com/
+[rory]:    http://razinaber.livejournal.com/
+[ruth]:    http://fleeblewidget.co.uk/
+[sarah]:   http://starlight-sarah.livejournal.com/
+[sian]:    http://elgingerbread.wordpress.com/

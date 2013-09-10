@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "March 2012"
+date:   2012-03-31 09:00:00
+---
+
+In March 2012:
+
+* Having already moved his blog around once, [Adam W][adam-w] [moved it again](http://westyads.livejournal.com/34504.html) to its new home at [www.ad-space.org.uk](http://www.ad-space.org.uk). There, he wrote about some of his UK-wide tour, [finishing Oxford](http://www.ad-space.org.uk/2012/03/11/oxford-evening-standard/) and moving on [to Brighton](http://www.ad-space.org.uk/2012/03/30/brighton-southern-comfort/).
+
+* [Andy R][andy-r] and [Sian][sian] went to [Toyko](http://selfdoubtgun.wordpress.com/2012/03/24/toyko-2012/), where they did karaoke and petted cats, alongside a whole lot of exploring the country.
+
+* [Claire][claire] tried to describe what it's like to be [a scientist in an academic environment](http://nowebsite.co.uk/blog/2012/03/is-being-a-scientist-fulfilling/).
+
+* [Dan][dan] explained how, when you're grieving, it's [the little things](http://www.scatmania.org/2012/03/01/little-things/) that get you. He attended [his father's funeral](http://www.scatmania.org/2012/03/04/funeral/), and shared [a video](http://www.youtube.com/watch?v=6DsmWxuXxUg) of it. He wrote about [a gun that fires tampons](http://www.scatmania.org/2012/03/08/the-tampon-gun/), an [interview](http://www.scatmania.org/2012/03/13/poly-in-the-media/) he did on the subject of polyamory, and the "[missile defence](http://www.scatmania.org/2012/03/15/missiles/)" at the olympic games. He also [harassed the creators](http://www.scatmania.org/2012/03/19/hdmi-virus-or-how-i-became-an-old-person/) of a scam computer product, discovered [an amazing whisky](http://www.scatmania.org/2012/03/20/douglas-of-drumlanrig/), recovered [some lost blog posts](http://www.scatmania.org/2012/03/21/remembering-december-2003/), claimed that [Sonicnotify would not catch on](http://www.scatmania.org/2012/03/23/sonicnotify/), observed [a quirk](http://www.scatmania.org/2012/03/25/a-damn-virgin/) in his GMail Contacts search, asked [what we can learn from RPH 'fetch quests'](http://www.scatmania.org/2012/03/27/fetch-quest/), and shared [the 8-bit version](http://www.scatmania.org/2012/03/31/8-bit-google-maps/) of Google Maps.
+
+* [JTA][jta] qualified [as a Librarian](http://blog.electricquaker.co.uk/2012/03/05/i-think-its-only-fair-to-warn-you/): a sliver of good news amongst some bad. He also [panic-bought fuel](http://blog.electricquaker.co.uk/2012/03/29/the-fish-pies-snoek-got-it-snoek/).
+
+* [Kit][kit] complained about [dubious pet shops](http://reaperkit.wordpress.com/2012/03/18/aquaria/) and chlorination of water.
+
+* [Liz][liz] changed jobs and [moved down South](http://norasdollhouse.livejournal.com/112058.html), near [Dan][dan], [Ruth][ruth], [JTA][jta], and [Paul][paul].
+
+* [Matt P][matt-p] deconstructed [the budget](http://myzelik.livejournal.com/56468.html).
+
+* [Paul][paul] looked at [how cool the Raspberry Pi is](http://blog.pacifist.co.uk/2012/03/08/raspberry-pi-and-chocolate-cake/), and talked about his experience of computers when he was growing up.
+
+* [Rory][rory] built [a clock](http://razinaber.livejournal.com/115316.html), and [reviewed the iPad 3](http://razinaber.livejournal.com/115482.html).
+
+* [Sian][sian] shared [a cute picture of herself](http://elgingerbread.wordpress.com/2012/03/01/dydd-gwyl-dewi-hapus/).
+
+
+[adam-g]:  http://strokeyadam.livejournal.com/
+[adam-w]:  http://www.ad-space.org.uk/
+[andy-k]:  http://theguidemark3.livejournal.com/
+[andy-r]:  http://selfdoubtgun.wordpress.com/
+[beth]:    http://littlegreenbeth.livejournal.com/
+[bryn]:    http://randomlyevil.org.uk/
+[claire]:  http://nowebsite.co.uk/blog/
+[dan]:     http://www.scatmania.org/
+[ele]:     http://ele-is-crazy.livejournal.com/
+[fiona]:   http://fionafish.wordpress.com/
+[hayley]:  http://leelee1983.livejournal.com/
+[jen]:     http://scleip.livejournal.com/
+[jimmy]:   http://vikingjim.livejournal.com/
+[jta]:     http://blog.electricquaker.co.uk/
+[kit]:     http://reaperkit.wordpress.com/
+[liz]:     http://norasdollhouse.livejournal.com/
+[malbo21]: http://malbo21.wordpress.com/
+[matt-p]:  http://myzelik.livejournal.com/
+[matt-r]:  http://matt-inthe-hat.livejournal.com/
+[paul]:    http://blog.pacifist.co.uk/
+[penny]:   http://thepennyfaerie.livejournal.com/
+[pete]:    http://loonybin345.livejournal.com/
+[rory]:    http://razinaber.livejournal.com/
+[ruth]:    http://fleeblewidget.co.uk/
+[sarah]:   http://starlight-sarah.livejournal.com/
+[sian]:    http://elgingerbread.wordpress.com/

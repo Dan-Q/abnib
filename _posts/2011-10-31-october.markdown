@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "October 2011"
+date:   2011-10-31 09:00:00
+---
+
+In October 2011:
+
+* [Adam G][adam-g] penned a poem about [the Hillsborough disaster](http://adrokspoems.wordpress.com/2011/10/10/jft96/).
+
+* [Adam W][adam-w] continued his UK-tour series of blog posts, with a post about [the train journey](http://www.ad-space.org.uk/2011/10/01/get-set-awayday-with-arriva/) from Aberystwyth to Oxford.
+
+* [Bryn][bryn] shared the [news of Steve Jobs' death](http://randomlyevil.org.uk/2011/10/06/steve-jobs-1955-2011/), attended [TweetCamp](http://randomlyevil.org.uk/2011/10/11/tweetcamp-2011/), [BarCamps](http://randomlyevil.org.uk/2011/10/24/traveling-and-public-parts/) in London and Blackpool, made plans for a similar event [in Aberystywth](http://randomlyevil.org.uk/2011/10/25/haciaith-s4c-ar-priodas-prys-haciaith-and-s4cs-shotgun-wedding/), explored the [teaching of secure software development](http://randomlyevil.org.uk/2011/10/26/datblygu-diogel-secure-development/), and asked "[what should a next-generation S4C provide?](http://randomlyevil.org.uk/2011/10/28/s4c-2-0/)".
+
+* [Claire][claire] enjoyed [graze boxes](http://nowebsite.co.uk/blog/2011/10/grazing/) and celebrated female role models in technology, [like Ada Lovelace](http://nowebsite.co.uk/blog/2011/10/ada-lovelace-day/).
+
+* [Dan][dan] recalled [pirating The Matrix](http://www.scatmania.org/2011/10/08/on-this-day-in-1999/) on his first broadband Internet connection, tried to [understand fake meat](http://www.scatmania.org/2011/10/12/meat-to-please-you/), shared [a quirky Oxford poster](http://www.scatmania.org/2011/10/15/wanted/), returned to education for a [diploma in Counselling](http://www.scatmania.org/2011/10/19/back-to-school/), stood up for [asexuals](http://www.scatmania.org/2011/10/23/asexual-awareness-week/), reviewed an interactive fiction game called [The Play](http://www.scatmania.org/2011/10/25/the-play/), reported [sort-of success](http://www.scatmania.org/2011/10/28/poly-and-the-census-success/) on the campaign to recognise, or at least not break, census data on polyamorous families, and enjoyed [using ZipCar](http://www.scatmania.org/2011/10/31/zipcar/).
+
+* [Kit][kit] contemplated the [personal effects of the renaming](http://reaperkit.wordpress.com/2011/10/05/university-of-wales/) of the University of Wales, Aberystwyth to Aberystwyth University, and [praised](http://reaperkit.wordpress.com/2011/10/24/you-know-you-married-the-right-person-when/) [his wife][fiona] when she helped him to make a pendrive identifiable.
+
+* ['Malbo21'][malbo21] applied to [their own job](http://malbo21.wordpress.com/2011/10/27/the-enemy-within/), and got stressed about having to move house in the imminent future.
+
+* [Matt P][matt-p] was [in a lot of pain](http://myzelik.livejournal.com/55075.html), to the mystery of medical professionals, and turned to alcohol to help.
+
+* [Paul][paul] complained about [a badly-run cinema](http://blog.pacifist.co.uk/2011/10/08/yet-another-disappointing-trip-to-the-cinema/), and took [a trip to Scotland](http://blog.pacifist.co.uk/2011/10/15/scotland-2011/) to see [Kit][kit] and [Fiona][fiona], and reported "[31.5% complete](http://blog.pacifist.co.uk/2011/10/16/percentage-complete/)".
+
+* [Rory][rory] reviewed the [iPhone 4S](http://razinaber.livejournal.com/112901.html), flew [to Tokyo](http://razinaber.livejournal.com/113177.html), and [managed not to spend](http://razinaber.livejournal.com/113587.html) too much money there.
+
+* [Sian][sian] rode [an OYBike](http://elgingerbread.wordpress.com/2011/10/06/oy-oy-oy/), and took [Andy][andy-r]'s family on [a ghost walk](http://elgingerbread.wordpress.com/2011/10/14/here-be-ghosties/).
+
+
+[adam-g]:  http://strokeyadam.livejournal.com/
+[adam-w]:  http://www.ad-space.org.uk/
+[andy-k]:  http://theguidemark3.livejournal.com/
+[andy-r]:  http://selfdoubtgun.wordpress.com/
+[beth]:    http://littlegreenbeth.livejournal.com/
+[bryn]:    http://randomlyevil.org.uk/
+[claire]:  http://nowebsite.co.uk/blog/
+[dan]:     http://www.scatmania.org/
+[ele]:     http://ele-is-crazy.livejournal.com/
+[fiona]:   http://fionafish.wordpress.com/
+[hayley]:  http://leelee1983.livejournal.com/
+[jen]:     http://scleip.livejournal.com/
+[jimmy]:   http://vikingjim.livejournal.com/
+[jta]:     http://blog.electricquaker.co.uk/
+[kit]:     http://reaperkit.wordpress.com/
+[liz]:     http://norasdollhouse.livejournal.com/
+[malbo21]: http://malbo21.wordpress.com/
+[matt-p]:  http://myzelik.livejournal.com/
+[matt-r]:  http://matt-inthe-hat.livejournal.com/
+[paul]:    http://blog.pacifist.co.uk/
+[penny]:   http://thepennyfaerie.livejournal.com/
+[pete]:    http://loonybin345.livejournal.com/
+[rory]:    http://razinaber.livejournal.com/
+[ruth]:    http://fleeblewidget.co.uk/
+[sarah]:   http://starlight-sarah.livejournal.com/
+[sian]:    http://elgingerbread.wordpress.com/

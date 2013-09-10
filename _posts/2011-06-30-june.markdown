@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "June 2011"
+date:   2011-06-30 09:00:00
+---
+
+In June 2011:
+
+* [Adam G][adam-g] wrote poems about [unwelcome evangelism](http://adrokspoems.wordpress.com/2011/06/22/pay-a-little-prayer-for-me/) and [Coronation Street](http://adrokspoems.wordpress.com/2011/06/24/coronation-treat/).
+
+* [Andy R][andy-r] continued his "PWL re-issues" blog series with "[Enjoy Travelling & Keep It Real](http://paganwandererlu.wordpress.com/2011/06/14/boxedset07-ejt/)".
+
+* [Bryn][bryn] took a photo of some [Wallflowers](http://randomlyevil.org.uk/2011/06/01/wallflowers/), spectated [polo](http://randomlyevil.org.uk/2011/06/05/polo-yng-nghaer-chester-polo/), and asked [why we can't see the elephant in the room](http://randomlyevil.org.uk/2011/06/10/zomg-why-cant-you-see-the-elephant/) of computer security.
+
+* [Claire][claire] turned [twenty-eight](http://nowebsite.co.uk/blog/2011/06/28-is-a-perfect-number/).
+
+* [Dan][dan] brought [Abnib back from the dead](http://www.scatmania.org/2011/06/01/abnib-lives-on/) after a surge of people demanded that it continued, [made a pun](http://www.scatmania.org/2011/06/09/i-went-to-an-rem-concert/) about REM lyrics, looked back at [the relaunch](http://www.scatmania.org/2011/06/10/on-this-day-in-2003/) of his blog, appeared in the paper after he and [Paul][paul] mached [in the Oxford Pride parade](http://www.scatmania.org/2011/06/13/showing-some-pride/) dressed as superheroes, complains about [people who can't take screenshots](http://www.scatmania.org/2011/06/15/my-new-pet-hate-part-ii/), provides [an update](http://www.scatmania.org/2011/06/19/poly-and-the-census-part-four/) on the "Poly and the Census" campaign, is mistaken [for a Scientologist](http://www.scatmania.org/2011/06/21/seriously-a-scientologist/), adds [UTF-8 support](http://www.scatmania.org/2011/06/23/fonts-of-the-ancients/) to a CMS, fails to resurrect [a dead chat room](http://www.scatmania.org/2011/06/25/hash-abnib/), plays [Spirit of the Century](http://www.scatmania.org/2011/06/27/spirit-of-the-century/), and watches [X-Men: First Class](http://www.scatmania.org/2011/06/29/first-class-film/).
+
+* [JTA][jta] laid out [Rule One](http://blog.electricquaker.co.uk/2011/06/19/rule-one/) of getting on with him, and [shares blog posts](http://blog.electricquaker.co.uk/2011/06/20/good-ol-ferrett/), one of which reflects his Rule One.
+
+* [Liz][liz] went [on holiday](http://norasdollhouse.livejournal.com/110480.html). She also noted that Simon was considering starting a course in computer games design.
+
+* [Paul][paul] was [unnerved](http://blog.pacifist.co.uk/2011/06/14/seven-seven-one-nine-two-three/) by numbers stations, saw the [Easy Star All-Stars](http://blog.pacifist.co.uk/2011/06/19/easy-star-all-stars/), and went geocaching in [Bagley Woods](http://blog.pacifist.co.uk/2011/06/26/bagley-woods/).
+
+
+[adam-g]:  http://strokeyadam.livejournal.com/
+[adam-w]:  http://www.ad-space.org.uk/
+[andy-k]:  http://theguidemark3.livejournal.com/
+[andy-r]:  http://selfdoubtgun.wordpress.com/
+[beth]:    http://littlegreenbeth.livejournal.com/
+[bryn]:    http://randomlyevil.org.uk/
+[claire]:  http://nowebsite.co.uk/blog/
+[dan]:     http://www.scatmania.org/
+[ele]:     http://ele-is-crazy.livejournal.com/
+[fiona]:   http://fionafish.wordpress.com/
+[hayley]:  http://leelee1983.livejournal.com/
+[jen]:     http://scleip.livejournal.com/
+[jimmy]:   http://vikingjim.livejournal.com/
+[jta]:     http://blog.electricquaker.co.uk/
+[kit]:     http://reaperkit.wordpress.com/
+[liz]:     http://norasdollhouse.livejournal.com/
+[malbo21]: http://malbo21.wordpress.com/
+[matt-p]:  http://myzelik.livejournal.com/
+[matt-r]:  http://matt-inthe-hat.livejournal.com/
+[paul]:    http://blog.pacifist.co.uk/
+[penny]:   http://thepennyfaerie.livejournal.com/
+[pete]:    http://loonybin345.livejournal.com/
+[rory]:    http://razinaber.livejournal.com/
+[ruth]:    http://fleeblewidget.co.uk/
+[sarah]:   http://starlight-sarah.livejournal.com/
+[sian]:    http://elgingerbread.wordpress.com/

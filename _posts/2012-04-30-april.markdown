@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "April 2012"
+date:   2012-04-30 09:00:00
+---
+
+In April 2012:
+
+* [Adam G][adam-g] gave us poems about [vegetables](http://adrokspoems.wordpress.com/2012/04/03/on-the-veg-of-reason/) and [surrealism](http://adrokspoems.wordpress.com/2012/04/19/home-on-the-strange/).
+
+* [Adam W][adam-w], wrote up more of his UK-wide grand tour, covering [Brighton](http://www.ad-space.org.uk/2012/04/10/brighton-a-model-of-excellence/) and [London](http://www.ad-space.org.uk/2012/04/12/london-same-old-brand-new-you/).
+
+* [Andy R][andy-r] promoted his new album, "[The Signal and the Noise](http://paganwandererlu.wordpress.com/2012/04/03/new-album-2012/)".
+
+* [Dan][dan] made [an April Fools' blog post](http://www.scatmania.org/2012/04/01/on-this-day-in-2040/), misseed [eating meat](http://www.scatmania.org/2012/04/04/meat-i-miss/) (perhaps inspired by Adam's poem), started [handling his dad's estate](http://www.scatmania.org/2012/04/11/personal-effects/), and [redesigned his blog](http://www.scatmania.org/2012/04/13/a-new-look/) (and later, explained [how he did](http://www.scatmania.org/2012/04/17/css-transitions/) some of it). He went on to discuss the [limited size of text messages](http://www.scatmania.org/2012/04/19/160/), watched [Star Wars in Machete Order](http://www.scatmania.org/2012/04/23/star-wars-machete-order/), abused [HTTP 301 codes](http://www.scatmania.org/2012/04/24/visitor-tracking-without-cookies/) to track visitors who block cookies, and reminisced about [handing in his dissertation](http://www.scatmania.org/2012/04/27/on-this-day-12/) eight years earlier.
+
+* Meanwhile, [Dan][dan]'s dad - or some of him, at least - finally [made it to the North Pole](http://www.scatmania.org/2012/04/16/top-of-the-world/).
+
+* [Paul][paul] contemplated coffee and [found himself a new house](http://blog.pacifist.co.uk/2012/04/07/pickled-coffee/). He gave a nod to [Jack Tramiel](http://blog.pacifist.co.uk/2012/04/10/jack-tramiel/), who had just died, and [almost wrote a letter](http://blog.pacifist.co.uk/2012/04/20/letter-writing/).
+
+* [Rory][rory] dug up [some fascinating code that he wrote in the mid-90s](http://razinaber.livejournal.com/115727.html).
+
+* [Ruth][ruth] said [goodbye to LiveJournal](http://fleeblewidget.livejournal.com/181201.html), starting [a new blog](http://fleeblewidget.co.uk/2012/04/moving-on/) at [fleeblewidget.co.uk](http://fleeblewidget.co.uk/). [Her first real post](http://fleeblewidget.co.uk/2012/04/rearranging-ticket-fields-in-trac/) covered how to re-arrange ticket fields in [Trac](http://trac.edgewall.org/).
+
+
+[adam-g]:  http://strokeyadam.livejournal.com/
+[adam-w]:  http://www.ad-space.org.uk/
+[andy-k]:  http://theguidemark3.livejournal.com/
+[andy-r]:  http://selfdoubtgun.wordpress.com/
+[beth]:    http://littlegreenbeth.livejournal.com/
+[bryn]:    http://randomlyevil.org.uk/
+[claire]:  http://nowebsite.co.uk/blog/
+[dan]:     http://www.scatmania.org/
+[ele]:     http://ele-is-crazy.livejournal.com/
+[fiona]:   http://fionafish.wordpress.com/
+[hayley]:  http://leelee1983.livejournal.com/
+[jen]:     http://scleip.livejournal.com/
+[jimmy]:   http://vikingjim.livejournal.com/
+[jta]:     http://blog.electricquaker.co.uk/
+[kit]:     http://reaperkit.wordpress.com/
+[liz]:     http://norasdollhouse.livejournal.com/
+[malbo21]: http://malbo21.wordpress.com/
+[matt-p]:  http://myzelik.livejournal.com/
+[matt-r]:  http://matt-inthe-hat.livejournal.com/
+[paul]:    http://blog.pacifist.co.uk/
+[penny]:   http://thepennyfaerie.livejournal.com/
+[pete]:    http://loonybin345.livejournal.com/
+[rory]:    http://razinaber.livejournal.com/
+[ruth]:    http://fleeblewidget.co.uk/
+[sarah]:   http://starlight-sarah.livejournal.com/
+[sian]:    http://elgingerbread.wordpress.com/

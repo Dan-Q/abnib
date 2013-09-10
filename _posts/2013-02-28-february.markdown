@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "February 2013"
+date:   2013-02-28 09:00:00
+---
+
+In February:
+
+* [Adam G][adam-g] talked about [the first month of being a father](http://strokeyadam.livejournal.com/79859.html), and wrote poems about [time travel](http://adrokspoems.wordpress.com/2013/02/01/magical-history-tour/), [shopping](http://adrokspoems.wordpress.com/2013/02/05/shop-till-you-drop/), [sniffing women](http://adrokspoems.wordpress.com/2013/02/15/a-nose-by-any-other-name/), and [a squirrel](http://adrokspoems.wordpress.com/2013/02/20/a-bushy-tale/) (he also [blogged about the squirrel](http://strokeyadam.livejournal.com/79907.html)).
+
+* [Claire][claire] passed her [PhD viva](http://nowebsite.co.uk/blog/2013/03/passed-my-phd-viva/).
+
+* [Dan][dan] looked back on [how 2012 was an awful year](http://www.scatmania.org/2013/02/26/goodbye-2012/), and tries to be optimistic about 2013.
+
+* [Fiona][fiona] played with [fountain pens](http://fionafish.wordpress.com/2013/02/03/ink-journal/), took [pictures of trees](http://fionafish.wordpress.com/2013/02/14/snow-trees/), ate [mystery food](http://fionafish.wordpress.com/2013/02/14/frozen-taro-cakes/), and found [the chaos in her life](http://fionafish.wordpress.com/2013/02/27/a-little-bit-of-chaos/).
+
+* [JTA][jta] talks obliquely about [his feelings following Ruth's miscarriage](http://blog.electricquaker.co.uk/2013/02/25/the-man-who-took-the-lid-off/), and about the nature of his blogging. He promises that his next post will be about his new job.
+
+* [Liz][liz] shared her appreciation of [her grandad's life](http://norasdollhouse.livejournal.com/113464.html).
+
+* [Ruth][ruth] explained [Apache basic authentication](http://fleeblewidget.co.uk/2013/02/gotcha-of-the-day-apache-basic-authentication-on-windows/), and talked about [having a miscarriage](http://fleeblewidget.co.uk/2013/02/disclosure/).
+
+* [Sian][sian] ate in, shopped at, and explored [Edinburgh](http://elgingerbread.wordpress.com/2013/02/04/edinburgh/), talked about [pretty clothes](http://elgingerbread.wordpress.com/2013/02/06/nomads/) and [making a blanket](http://elgingerbread.wordpress.com/2013/02/18/baby-blanket-2-granny-stripe/), and shared [twenty-four](http://elgingerbread.wordpress.com/2013/02/08/24-weeks-ramblings/) and [twenty-five](http://elgingerbread.wordpress.com/2013/02/14/25-week-ramblings/) week ramblings about her pregnancy.
+
+[adam-g]: http://strokeyadam.livejournal.com/
+[andy-r]: http://selfdoubtgun.wordpress.com/
+[claire]: http://nowebsite.co.uk/
+[dan]:    http://www.scatmania.org/
+[fiona]:  http://fionafish.wordpress.com/
+[jta]:    http://blog.electricquaker.co.uk/
+[kit]:    http://reaperkit.wordpress.com/
+[liz]:    http://norasdollhouse.livejournal.com/
+[paul]:   http://blog.pacifist.co.uk/
+[ruth]:   http://fleeblewidget.co.uk/
+[sian]:   http://elgingerbread.wordpress.com/

@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "January 2011"
+date:   2011-01-31 09:00:00
+---
+
+In January 2011:
+
+* [Andy R][andy-r] began a "PWL re-issues" seroes of posts, starting with "[Build Library Here (or else!)](http://paganwandererlu.wordpress.com/2011/01/11/boxedset01-blhoe/)".
+
+* [Bryn][bryn] promised to [upload some photos](http://randomlyevil.org.uk/2011/01/06/wythnos-arall-another-week/) (he later [shared](http://randomlyevil.org.uk/2011/01/15/old-dee-bridge/)), [three](http://randomlyevil.org.uk/2011/01/16/the-llandudno-job/), [pictures](http://randomlyevil.org.uk/2011/01/21/late-shopping/)). He mentioned [a BarCamp](http://randomlyevil.org.uk/2011/01/11/haciaith2011-paratoiprep/) to "hack in Welsh", bought [a new camera](http://randomlyevil.org.uk/2011/01/13/diddordebau-newydd-new-hobbies/).
+
+* [Claire][claire] invented [hexadecimal time](http://nowebsite.co.uk/blog/2011/01/hextime/) and [moved her blog](http://nowebsite.co.uk/blog/2011/01/blog-successfully-moved/) to her own hosting.
+
+* [Dan][dan] turned [thirty](http://www.scatmania.org/2011/01/10/thirty-1/) and [reflected](http://www.scatmania.org/2011/01/10/thirty-2/) on what the winter's been like for him. He found a ludicrous amount of [malware](http://www.scatmania.org/2011/01/11/the-worst-server-infection-ive-ever-seen/) on a client's computer, explained how he [makes up star sign interpretation](http://www.scatmania.org/2011/01/15/as-an-aquarius-im-shocked/) as he goes along, writes [poetry with code](http://www.scatmania.org/2011/01/17/they-say-that-programmers-never-die/), explained [the 'anchoring effect'](http://www.scatmania.org/2011/01/19/ask-for-what-you-want/) and what we can learn from it, applied [a new design](http://www.scatmania.org/2011/01/21/new-look-new-protocols/) to his blog, explained faults with [Steam's password fields](http://www.scatmania.org/2011/01/23/paste-steam-passwords/), developed a Ruby implementation of [mOTP](http://www.scatmania.org/2011/01/24/motp/), celebrates the first [Argh, It Burns! Night](http://www.scatmania.org/2011/01/25/argh-it-burns-night/), accidentally suggested [eating his boss's dog](http://www.scatmania.org/2011/01/27/puppy-eating-time/), showed [how stupid Fox News are](http://www.scatmania.org/2011/01/29/fox-news-on-ipv6/) in their coverage of IPv6, and [used a story](http://www.scatmania.org/2011/01/31/mr-smiths-robbery/) to undermine arguments that are sometimes used to protect rapists.
+
+* [Ele][ele] looked back on [2010](http://ele-is-crazy.livejournal.com/8890.html) and its highligts and "lowlights", and looked forward to 2011.
+
+* ['Malbo21'][malbo21] also [looked back](http://malbo21.wordpress.com/2011/01/04/meme/) over the previous year, in a "meme" format.
+
+* [Sian][sian] followed suit, with [a similar meme](http://elgingerbread.wordpress.com/2011/01/03/2010-a-lazy-meme-post/) about what she did last year.
+
+* [Paul][paul] found a cool '[dragon tower](http://blog.pacifist.co.uk/2011/01/04/dragon-tower/)', expanded his [music library](http://blog.pacifist.co.uk/2011/01/09/expanding-my-musical-library/), and [started working](http://blog.pacifist.co.uk/2011/01/20/job-switching/) at Booker.
+
+
+[adam-g]:  http://strokeyadam.livejournal.com/
+[adam-w]:  http://www.ad-space.org.uk/
+[andy-k]:  http://theguidemark3.livejournal.com/
+[andy-r]:  http://selfdoubtgun.wordpress.com/
+[beth]:    http://littlegreenbeth.livejournal.com/
+[bryn]:    http://randomlyevil.org.uk/
+[claire]:  http://nowebsite.co.uk/blog/
+[dan]:     http://www.scatmania.org/
+[ele]:     http://ele-is-crazy.livejournal.com/
+[fiona]:   http://fionafish.wordpress.com/
+[hayley]:  http://leelee1983.livejournal.com/
+[jen]:     http://scleip.livejournal.com/
+[jimmy]:   http://vikingjim.livejournal.com/
+[jta]:     http://blog.electricquaker.co.uk/
+[kit]:     http://reaperkit.wordpress.com/
+[liz]:     http://norasdollhouse.livejournal.com/
+[malbo21]: http://malbo21.wordpress.com/
+[matt-p]:  http://myzelik.livejournal.com/
+[matt-r]:  http://matt-inthe-hat.livejournal.com/
+[paul]:    http://blog.pacifist.co.uk/
+[penny]:   http://thepennyfaerie.livejournal.com/
+[pete]:    http://loonybin345.livejournal.com/
+[rory]:    http://razinaber.livejournal.com/
+[ruth]:    http://fleeblewidget.co.uk/
+[sarah]:   http://starlight-sarah.livejournal.com/
+[sian]:    http://elgingerbread.wordpress.com/

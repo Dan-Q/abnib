@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "January 2012"
+date:   2012-01-31 09:00:00
+---
+
+In January 2012:
+
+* [Andy R][andy-r] started [a new blog](http://selfdoubtgun.wordpress.com/2012/01/03/hello/), at [selfdoubtgun.wordpress.com](http://selfdoubtgun.wordpress.com/2012/01/03/hello/). There, he write about [Stradivarius, James Blake, and the KLF](http://selfdoubtgun.wordpress.com/2012/01/04/stradivarius-blake-klf/), the [brain's perception of spatial relationships)](http://selfdoubtgun.wordpress.com/2012/01/06/byetone-symeta/), and the music of [Broadcast](http://selfdoubtgun.wordpress.com/2012/01/14/broadcast/).
+
+* [Bryn][bryn] planned to attend a [BarCamp in Aberystwyth](http://randomlyevil.org.uk/2012/01/23/hacio-beth-hacking-what/).
+
+* [Claire][claire] reflected upon how [she stopped engaging in polyamorous relationships](http://nowebsite.co.uk/blog/2012/01/polyamory-an-honest-retrospective/).
+
+* [Dan][dan] wrote about [Marmite](http://www.scatmania.org/2012/01/01/marmite/), travelled [around the UK](http://www.scatmania.org/2012/01/04/five-beds/) for Christmas, built two new computers - [Tiffany2](http://www.scatmania.org/2012/01/09/tiffany2/) and [Dana](http://www.scatmania.org/2012/01/27/dana/), built a gingerbread village and then [demolished it with jelly bunnies](http://www.scatmania.org/2012/01/14/village-of-the-bunnies/), listened to [Northern radio stations](http://www.scatmania.org/2012/01/17/northern-radio/), shared a [workaround to the Wikipedia blackout](http://www.scatmania.org/2012/01/18/looking-for-wikipedia/), trolled fellow [Marks & Spencer customers](http://www.scatmania.org/2012/01/21/marks-spensive/), produced a [glossary of nontheist terminology](http://www.scatmania.org/2012/01/24/nontheist-glossary/), and had difficulty stopping his brain from [toggling](http://www.scatmania.org/2012/01/30/toggling/).
+
+* [Liz][liz] and Simon's New Years' party attracted [a write-up from Dan](http://www.scatmania.org/2012/01/11/my-very-excellent-liz-just-brought-us-sixteen-pizzas/) and [another one from Kit](http://reaperkit.wordpress.com/2012/01/02/new-year-2012/).
+
+* [Kit][kit] switched [from LiveJournal](http://reaperkit.wordpress.com/2012/01/03/hello-world/) to WordPress - his new URL is [reaperkit.wordpress.com](http://reaperkit.wordpress.com/). There, he wrote about a [trip to Dundee](http://reaperkit.wordpress.com/2012/01/22/trip-to-dundee/) and a fantastic shave.
+
+* [Matt P][matt-p] wrote [an agenda](http://myzelik.livejournal.com/55727.html) for the "State of the Matt".
+
+* [Rory][rory] reviewed the [iPod Nano 7G watch](http://razinaber.livejournal.com/114892.html) and described the [complexities of riding the bus in Japan](http://razinaber.livejournal.com/115199.html).
+
+* [Sian][sian] looked forward to [a new year](http://elgingerbread.wordpress.com/2012/01/03/732/), albeit one of healthier eating, and started [taking more photos](http://elgingerbread.wordpress.com/2012/01/31/january/) to share in her blog posts.
+
+
+[adam-g]:  http://strokeyadam.livejournal.com/
+[adam-w]:  http://www.ad-space.org.uk/
+[andy-k]:  http://theguidemark3.livejournal.com/
+[andy-r]:  http://selfdoubtgun.wordpress.com/
+[beth]:    http://littlegreenbeth.livejournal.com/
+[bryn]:    http://randomlyevil.org.uk/
+[claire]:  http://nowebsite.co.uk/blog/
+[dan]:     http://www.scatmania.org/
+[ele]:     http://ele-is-crazy.livejournal.com/
+[fiona]:   http://fionafish.wordpress.com/
+[hayley]:  http://leelee1983.livejournal.com/
+[jen]:     http://scleip.livejournal.com/
+[jimmy]:   http://vikingjim.livejournal.com/
+[jta]:     http://blog.electricquaker.co.uk/
+[kit]:     http://reaperkit.wordpress.com/
+[liz]:     http://norasdollhouse.livejournal.com/
+[malbo21]: http://malbo21.wordpress.com/
+[matt-p]:  http://myzelik.livejournal.com/
+[matt-r]:  http://matt-inthe-hat.livejournal.com/
+[paul]:    http://blog.pacifist.co.uk/
+[penny]:   http://thepennyfaerie.livejournal.com/
+[pete]:    http://loonybin345.livejournal.com/
+[rory]:    http://razinaber.livejournal.com/
+[ruth]:    http://fleeblewidget.co.uk/
+[sarah]:   http://starlight-sarah.livejournal.com/
+[sian]:    http://elgingerbread.wordpress.com/

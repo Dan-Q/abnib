@@ -30,6 +30,8 @@ A since-deleted post by [Adam G][adam-g] talked about nostalgia for Aberystwyth,
 
 * [Rory][rory] re-visited Aberystwyth to [help the Computer Science department](http://razinaber.livejournal.com/110967.html) get into iOS development.
 
+* [Ruth][ruth] looked back on a [murder mystery housewarming party](http://fleeblewidget.livejournal.com/177630.html), searched for error codes [without success](http://fleeblewidget.livejournal.com/177915.html), planted [lavender](http://fleeblewidget.livejournal.com/178226.html), didn't tell a work colleage about [her multiple lovers](http://fleeblewidget.livejournal.com/178486.html), and was forced to program in [Java](http://fleeblewidget.livejournal.com/177926.html), which [she hates](http://fleeblewidget.livejournal.com/178833.html).
+
 * [Sian][sian] visited [Oxford](http://elgingerbread.wordpress.com/2010/09/01/oxford-blues/) and went to [Dan][dan]'s murder mystery, [moved house](http://elgingerbread.wordpress.com/2010/09/15/my-old-crap/), shared [her nostalgia](http://elgingerbread.wordpress.com/2010/09/16/hiraeth/) for old Aberystwyth times, [knitted](http://elgingerbread.wordpress.com/2010/09/20/ar-y-gweill/), and started on a list of [30 things](http://elgingerbread.wordpress.com/2010/09/22/30-before-30/) to do before she turned 30.
 
 

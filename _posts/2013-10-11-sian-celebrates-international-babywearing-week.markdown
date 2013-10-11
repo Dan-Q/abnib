@@ -6,7 +6,7 @@ date:   2013-10-11 14:08:54
 
 ![MiniReegz is fascinated by Mexican food.](http://elgingerbread.files.wordpress.com/2013/10/mission.jpg?w=584&h=440)
 
-[Sian][sian] celebrated International Babywearing Week by taking [Andy][andy-r] and MiniRegz out to Mission Burrito.
+[Sian][sian] celebrated [International Babywearing Week](http://elgingerbread.wordpress.com/2013/10/10/new-and-old/) by taking [Andy][andy-r] and MiniRegz out to Mission Burrito.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

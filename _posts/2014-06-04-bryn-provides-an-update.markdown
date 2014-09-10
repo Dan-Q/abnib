@@ -1,40 +1,12 @@
-#!/usr/bin/env ruby
-TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
-DATE_FORMAT = '%Y-%m-%d'
+---
+layout: post
+title:  "Bryn provides an update"
+date:   2014-06-04 11:37:25
+---
 
-time = Time::now
+![Private Eye feature](http://randomlyevil.files.wordpress.com/2014/06/10314609_10154090862895175_7174181585608647525_n.jpg?w=300&h=260)
 
-print "Date/time [#{time.strftime(TIME_FORMAT)}]: "
-if (t = gets.strip) != ''
-  time = Time::mktime(*t.split(/[-: ]/))
-end
-
-print "Title: "
-title = gets.strip
-
-stub = title.gsub(/[^\w]+/, '-').gsub(/^-*/, '').gsub(/-$/, '').downcase
-print "Stub [#{stub}]: "
-if (s = gets.strip) != ''
-  stub = s
-end
-
-print "Picture URL [optional]: "
-if (pic_url = gets.strip) != ''
-  print "Picture title: "
-  pic_title = gets.strip
-end
-
-puts "Content [line containing just full stop to end]:"
-content = new_line = ''
-if(pic_url != '')
-  content += "![#{pic_title}](#{pic_url})\n\n"
-end
-while new_line.strip != '.'
-  content += new_line
-  new_line = gets
-end
-
-content += <<-END_OF_SUFFIX
+[Bryn][bryn] provided an update on his life since February, which includes [getting a new job](http://randomlyevil.org.uk/2014/06/03/quick-update/) and turning into Michael Caine.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/
@@ -63,13 +35,3 @@ content += <<-END_OF_SUFFIX
 [sarah]:   http://starlight-sarah.livejournal.com/
 [sian]:    http://elgingerbread.wordpress.com/
 [sundeep]: https://mentalwillness.wordpress.com/
-END_OF_SUFFIX
-
-######################################################################
-
-final = "---\nlayout: post\ntitle:  \"#{title}\"\ndate:   #{time.strftime(TIME_FORMAT)}\n---\n\n#{content}"
-filename = "_posts/#{time.strftime(DATE_FORMAT)}-#{stub}.markdown"
-File::open(filename, 'w') do |f|
-  f.puts final
-end
-puts "\nCreated #{filename}"

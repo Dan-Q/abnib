@@ -1,40 +1,14 @@
-#!/usr/bin/env ruby
-TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
-DATE_FORMAT = '%Y-%m-%d'
+---
+layout: post
+title:  "Rory goes monochrome, and Fiona begins the Arran Coastal Way"
+date:   2014-06-13 11:59:54
+---
 
-time = Time::now
+![The Angel of the North, shot by Rory](http://lightpriority.net/wp-content/uploads/2014/06/DSCF9347.jpg)
 
-print "Date/time [#{time.strftime(TIME_FORMAT)}]: "
-if (t = gets.strip) != ''
-  time = Time::mktime(*t.split(/[-: ]/))
-end
+[Rory][rory] shared [monochrome photos](http://lightpriority.net/2014/06/monochrome-collection/) he'd taken, along with his throughts about what makes monochrome visually compelling.
 
-print "Title: "
-title = gets.strip
-
-stub = title.gsub(/[^\w]+/, '-').gsub(/^-*/, '').gsub(/-$/, '').downcase
-print "Stub [#{stub}]: "
-if (s = gets.strip) != ''
-  stub = s
-end
-
-print "Picture URL [optional]: "
-if (pic_url = gets.strip) != ''
-  print "Picture title: "
-  pic_title = gets.strip
-end
-
-puts "Content [line containing just full stop to end]:"
-content = new_line = ''
-if(pic_url != '')
-  content += "![#{pic_title}](#{pic_url})\n\n"
-end
-while new_line.strip != '.'
-  content += new_line
-  new_line = gets
-end
-
-content += <<-END_OF_SUFFIX
+After [a false start](http://fionafish.wordpress.com/2014/06/08/arran-costal-way-false-start/), [Fiona][fiona] began [walking the Arran Coastal Way](http://fionafish.wordpress.com/2014/06/09/arran-costal-path-day-1-morning-brodick-to-north-sannox/), [spotting seals](http://fionafish.wordpress.com/2014/06/10/arran-costal-way-day-1-afternoon-north-sannox-to-loch-ranza/) and [camping at Imachar](http://fionafish.wordpress.com/2014/06/11/arran-costal-path-day-1-evening-lochranza-to-imachar/) before [setting out again](http://fionafish.wordpress.com/2014/06/12/arran-costal-way-day-2-morning-conc-na-coille-to-lagg/) to [Kildonan](http://fionafish.wordpress.com/2014/06/13/arran-costal-way-day-2-afternoon-and-evening-lagg-to-kildonan/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/
@@ -63,13 +37,3 @@ content += <<-END_OF_SUFFIX
 [sarah]:   http://starlight-sarah.livejournal.com/
 [sian]:    http://elgingerbread.wordpress.com/
 [sundeep]: https://mentalwillness.wordpress.com/
-END_OF_SUFFIX
-
-######################################################################
-
-final = "---\nlayout: post\ntitle:  \"#{title}\"\ndate:   #{time.strftime(TIME_FORMAT)}\n---\n\n#{content}"
-filename = "_posts/#{time.strftime(DATE_FORMAT)}-#{stub}.markdown"
-File::open(filename, 'w') do |f|
-  f.puts final
-end
-puts "\nCreated #{filename}"

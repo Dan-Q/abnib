@@ -1,40 +1,12 @@
-#!/usr/bin/env ruby
-TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
-DATE_FORMAT = '%Y-%m-%d'
+---
+layout: post
+title:  "Andy looks at scarcity in music, and Sundeep looks for a book deal"
+date:   2014-04-09 13:55:18
+---
 
-time = Time::now
+![The Wu-Tang Clan perform live, as Andy puts it](https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/1/19/Dublin_Philharmonic_Orchestra_performing_Tchaikovsky%27s_Symphony_No_4_in_Charlotte%2C_North_Carolina.jpg)
 
-print "Date/time [#{time.strftime(TIME_FORMAT)}]: "
-if (t = gets.strip) != ''
-  time = Time::mktime(*t.split(/[-: ]/))
-end
-
-print "Title: "
-title = gets.strip
-
-stub = title.gsub(/[^\w]+/, '-').gsub(/^-*/, '').gsub(/-$/, '').downcase
-print "Stub [#{stub}]: "
-if (s = gets.strip) != ''
-  stub = s
-end
-
-print "Picture URL [optional]: "
-if (pic_url = gets.strip) != ''
-  print "Picture title: "
-  pic_title = gets.strip
-end
-
-puts "Content [line containing just full stop to end]:"
-content = new_line = ''
-if(pic_url != '')
-  content += "![#{pic_title}](#{pic_url})\n\n"
-end
-while new_line.strip != '.'
-  content += new_line
-  new_line = gets
-end
-
-content += <<-END_OF_SUFFIX
+[Andy R][andy-r] described Wu-Tang Clan's latest stunt as [a $5 f\*ck you to fans](https://selfdoubtgun.wordpress.com/2014/04/04/wu-tang-fail/), kicking off [discussion](https://selfdoubtgun.wordpress.com/2014/04/04/wu-tang-fail/#comment-212) with [Paul][paul]. Meanwhile, [Sundeep][sundeep] put feelers out to the London Book Fair in [an effort to attract the attention of publishers](https://mentalwillness.wordpress.com/2014/04/07/willness-trademark/) for the book she'd been working on.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/
@@ -63,13 +35,3 @@ content += <<-END_OF_SUFFIX
 [sarah]:   http://starlight-sarah.livejournal.com/
 [sian]:    http://elgingerbread.wordpress.com/
 [sundeep]: https://mentalwillness.wordpress.com/
-END_OF_SUFFIX
-
-######################################################################
-
-final = "---\nlayout: post\ntitle:  \"#{title}\"\ndate:   #{time.strftime(TIME_FORMAT)}\n---\n\n#{content}"
-filename = "_posts/#{time.strftime(DATE_FORMAT)}-#{stub}.markdown"
-File::open(filename, 'w') do |f|
-  f.puts final
-end
-puts "\nCreated #{filename}"

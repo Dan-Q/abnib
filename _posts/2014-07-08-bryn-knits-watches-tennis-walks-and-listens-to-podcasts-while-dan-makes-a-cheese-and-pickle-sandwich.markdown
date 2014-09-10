@@ -1,40 +1,14 @@
-#!/usr/bin/env ruby
-TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
-DATE_FORMAT = '%Y-%m-%d'
+---
+layout: post
+title:  "Bryn knits, watches tennis, walks, and listens to podcasts, while Dan makes a cheese and pickle sandwich"
+date:   2014-07-08 16:44:20
+---
 
-time = Time::now
+![Bryn's scarf reaching six feet long](http://randomlyevil.files.wordpress.com/2014/07/wpid-img_20140705_113950697.jpg?w=300&h=225)
 
-print "Date/time [#{time.strftime(TIME_FORMAT)}]: "
-if (t = gets.strip) != ''
-  time = Time::mktime(*t.split(/[-: ]/))
-end
+[Bryn][bryn] spent his days [knitting a scarf](http://randomlyevil.org.uk/2014/07/07/knitting-update/), when he wasn't busy walking around London listening to podcasts, or watching Wimbledon.
 
-print "Title: "
-title = gets.strip
-
-stub = title.gsub(/[^\w]+/, '-').gsub(/^-*/, '').gsub(/-$/, '').downcase
-print "Stub [#{stub}]: "
-if (s = gets.strip) != ''
-  stub = s
-end
-
-print "Picture URL [optional]: "
-if (pic_url = gets.strip) != ''
-  print "Picture title: "
-  pic_title = gets.strip
-end
-
-puts "Content [line containing just full stop to end]:"
-content = new_line = ''
-if(pic_url != '')
-  content += "![#{pic_title}](#{pic_url})\n\n"
-end
-while new_line.strip != '.'
-  content += new_line
-  new_line = gets
-end
-
-content += <<-END_OF_SUFFIX
+Meanwhile, [Dan][dan] was amused by the effort his species puts into food, as he considered [how to make a cheese & pickle sandwich](http://danq.me/2014/07/08/cheese-and-pickle/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/
@@ -63,13 +37,3 @@ content += <<-END_OF_SUFFIX
 [sarah]:   http://starlight-sarah.livejournal.com/
 [sian]:    http://elgingerbread.wordpress.com/
 [sundeep]: https://mentalwillness.wordpress.com/
-END_OF_SUFFIX
-
-######################################################################
-
-final = "---\nlayout: post\ntitle:  \"#{title}\"\ndate:   #{time.strftime(TIME_FORMAT)}\n---\n\n#{content}"
-filename = "_posts/#{time.strftime(DATE_FORMAT)}-#{stub}.markdown"
-File::open(filename, 'w') do |f|
-  f.puts final
-end
-puts "\nCreated #{filename}"

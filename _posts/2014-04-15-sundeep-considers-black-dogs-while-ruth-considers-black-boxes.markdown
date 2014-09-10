@@ -1,40 +1,12 @@
-#!/usr/bin/env ruby
-TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
-DATE_FORMAT = '%Y-%m-%d'
+---
+layout: post
+title:  "Sundeep considers black dogs, while Ruth considers black boxes"
+date:   2014-04-15 19:35:46
+---
 
-time = Time::now
+[Sundeep][sundeep] asked if it was possible to [beat depression using willpower](https://mentalwillness.wordpress.com/2014/04/12/can-you-talk-or-will-your-way-out-of-depression/), and reported on her experience of [reading The Art of Happiness](https://mentalwillness.wordpress.com/2014/04/14/the-art-of-happiness/) by reflecting that [things could always be worse](https://mentalwillness.wordpress.com/2014/04/15/willness-to-appreciate-by-imagining-how-things-could-be-worse/).
 
-print "Date/time [#{time.strftime(TIME_FORMAT)}]: "
-if (t = gets.strip) != ''
-  time = Time::mktime(*t.split(/[-: ]/))
-end
-
-print "Title: "
-title = gets.strip
-
-stub = title.gsub(/[^\w]+/, '-').gsub(/^-*/, '').gsub(/-$/, '').downcase
-print "Stub [#{stub}]: "
-if (s = gets.strip) != ''
-  stub = s
-end
-
-print "Picture URL [optional]: "
-if (pic_url = gets.strip) != ''
-  print "Picture title: "
-  pic_title = gets.strip
-end
-
-puts "Content [line containing just full stop to end]:"
-content = new_line = ''
-if(pic_url != '')
-  content += "![#{pic_title}](#{pic_url})\n\n"
-end
-while new_line.strip != '.'
-  content += new_line
-  new_line = gets
-end
-
-content += <<-END_OF_SUFFIX
+Meanwhile, [Ruth][ruth] contemplated how her understanding of the world has grown, but how [there are still black boxes in her life](http://fleeblewidget.co.uk/2014/04/black-boxes/), including - right now - her daughter.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/
@@ -63,13 +35,3 @@ content += <<-END_OF_SUFFIX
 [sarah]:   http://starlight-sarah.livejournal.com/
 [sian]:    http://elgingerbread.wordpress.com/
 [sundeep]: https://mentalwillness.wordpress.com/
-END_OF_SUFFIX
-
-######################################################################
-
-final = "---\nlayout: post\ntitle:  \"#{title}\"\ndate:   #{time.strftime(TIME_FORMAT)}\n---\n\n#{content}"
-filename = "_posts/#{time.strftime(DATE_FORMAT)}-#{stub}.markdown"
-File::open(filename, 'w') do |f|
-  f.puts final
-end
-puts "\nCreated #{filename}"

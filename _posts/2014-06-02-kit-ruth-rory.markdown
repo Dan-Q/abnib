@@ -1,40 +1,16 @@
-#!/usr/bin/env ruby
-TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
-DATE_FORMAT = '%Y-%m-%d'
+---
+layout: post
+title:  "Kit sells a car and takes a radio exam, Ruth writes a debugging cheatsheet, and Rory continues sharing photos of Copenhagen"
+date:   2014-06-02 12:29:06
+---
 
-time = Time::now
+![Storm, Kit's old car](https://reaperkit.files.wordpress.com/2014/05/dscf0106.jpg?w=650)
 
-print "Date/time [#{time.strftime(TIME_FORMAT)}]: "
-if (t = gets.strip) != ''
-  time = Time::mktime(*t.split(/[-: ]/))
-end
+After 100,000 miles of service, [Kit][kit] finally [passed on "Storm"](https://reaperkit.wordpress.com/2014/05/10/storm-abates/), his car. Later, he [passed his Intermediate Radio Amateur exam](https://reaperkit.wordpress.com/2014/06/01/2m0ktl/).
 
-print "Title: "
-title = gets.strip
+While at a [Three Rings](http://www.threerings.org.uk) DevCamp, [Ruth][ruth] wrote a [ByeBug cheatsheet](http://fleeblewidget.co.uk/2014/05/byebug-cheatsheet/).
 
-stub = title.gsub(/[^\w]+/, '-').gsub(/^-*/, '').gsub(/-$/, '').downcase
-print "Stub [#{stub}]: "
-if (s = gets.strip) != ''
-  stub = s
-end
-
-print "Picture URL [optional]: "
-if (pic_url = gets.strip) != ''
-  print "Picture title: "
-  pic_title = gets.strip
-end
-
-puts "Content [line containing just full stop to end]:"
-content = new_line = ''
-if(pic_url != '')
-  content += "![#{pic_title}](#{pic_url})\n\n"
-end
-while new_line.strip != '.'
-  content += new_line
-  new_line = gets
-end
-
-content += <<-END_OF_SUFFIX
+[Rory][rory], meanwhile, continued sharing [photos he'd taken in Copenhagen](http://lightpriority.net/2014/05/wonderful-copenhagen-part-2/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/
@@ -63,13 +39,3 @@ content += <<-END_OF_SUFFIX
 [sarah]:   http://starlight-sarah.livejournal.com/
 [sian]:    http://elgingerbread.wordpress.com/
 [sundeep]: https://mentalwillness.wordpress.com/
-END_OF_SUFFIX
-
-######################################################################
-
-final = "---\nlayout: post\ntitle:  \"#{title}\"\ndate:   #{time.strftime(TIME_FORMAT)}\n---\n\n#{content}"
-filename = "_posts/#{time.strftime(DATE_FORMAT)}-#{stub}.markdown"
-File::open(filename, 'w') do |f|
-  f.puts final
-end
-puts "\nCreated #{filename}"

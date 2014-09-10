@@ -1,40 +1,14 @@
-#!/usr/bin/env ruby
-TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
-DATE_FORMAT = '%Y-%m-%d'
+---
+layout: post
+title:  "Fiona walks the Cateran Trail, and Dan reviews a murder mystery"
+date:   2013-11-03 23:58:51
+---
 
-time = Time::now
+![Accusing the murderer.](http://www.scatmania.org/wp-content/uploads/2013/11/DSCF1493-300x225.jpg)
 
-print "Date/time [#{time.strftime(TIME_FORMAT)}]: "
-if (t = gets.strip) != ''
-  time = Time::mktime(*t.split(/[-: ]/))
-end
+[Fiona][fiona] walked [the Cateran Trail](http://fionafish.wordpress.com/2013/11/01/the-cateran-trail-in-two-parts/) over the course of a wet and foggy three-day weekend.
 
-print "Title: "
-title = gets.strip
-
-stub = title.gsub(/[^\w]+/, '-').gsub(/^-*/, '').gsub(/-$/, '').downcase
-print "Stub [#{stub}]: "
-if (s = gets.strip) != ''
-  stub = s
-end
-
-print "Picture URL [optional]: "
-if (pic_url = gets.strip) != ''
-  print "Picture title: "
-  pic_title = gets.strip
-end
-
-puts "Content [line containing just full stop to end]:"
-content = new_line = ''
-if(pic_url != '')
-  content += "![#{pic_title}](#{pic_url})\n\n"
-end
-while new_line.strip != '.'
-  content += new_line
-  new_line = gets
-end
-
-content += <<-END_OF_SUFFIX
+Meanwhile, [Liz][liz] and Simon, among others, attended a murder mystery party at [Dan][dan], [Ruth][ruth] and [JTA][jta]'s house. [Dan][dan] provided [a full review](http://www.scatmania.org/2013/11/04/ambassador/) including a video.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/
@@ -62,14 +36,3 @@ content += <<-END_OF_SUFFIX
 [ruth]:    http://fleeblewidget.co.uk/
 [sarah]:   http://starlight-sarah.livejournal.com/
 [sian]:    http://elgingerbread.wordpress.com/
-[sundeep]: https://mentalwillness.wordpress.com/
-END_OF_SUFFIX
-
-######################################################################
-
-final = "---\nlayout: post\ntitle:  \"#{title}\"\ndate:   #{time.strftime(TIME_FORMAT)}\n---\n\n#{content}"
-filename = "_posts/#{time.strftime(DATE_FORMAT)}-#{stub}.markdown"
-File::open(filename, 'w') do |f|
-  f.puts final
-end
-puts "\nCreated #{filename}"

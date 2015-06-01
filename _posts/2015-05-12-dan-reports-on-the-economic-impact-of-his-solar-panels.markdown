@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Dan reports on the economic impact of his solar panels"
+date:   2015-05-12 15:20:15
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Graph showing energy usage at Dan's house.](https://danq.me/wp-content/uploads/2015/05/daily-energy-usage-2-300x136.png)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Dan][dan] wrote about [the economic efficiency of his solar array](https://danq.me/2015/05/12/solar-power-2/).
+
+In edge-of-Abnib news, Simon has [released a demo](http://simonjohngilbert.blogspot.co.uk/2015/04/demo-published.html) of the game he's been developing, and he'd like to hear your feedback.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

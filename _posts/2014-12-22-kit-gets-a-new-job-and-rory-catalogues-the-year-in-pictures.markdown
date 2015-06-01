@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Kit gets a new job, and Rory catalogues the year in pictures"
+date:   2014-12-22 13:57:11
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![A photo from Rory, taken on a cold frosty day.](http://lightpriority.net/wp-content/uploads/2014/12/DSCF3461-2.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Kit][kit] had a busy month as a result of getting [a new job](https://reaperkit.wordpress.com/2014/12/20/ringing-the-changes-2/) as an engineer with Magdalene.
+
+Then, [Rory][rory] looked back on the year by showcasing [photos from each month](http://lightpriority.net/2014/12/twelve-images-for-twelve-months/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

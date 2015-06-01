@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Rory explores an abandoned kiln and Dan covers his roof with solar panels"
+date:   2014-12-08 11:16:53
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Solar panels on Dan's roof](https://danq.me/wp-content/uploads/2014/12/20141204_153702-1170x658.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Rory][rory] did some urban exploration, finding his way into an [abandoned pottery](http://lightpriority.net/2014/11/the-abandoned-pottery/) to take some beautiful pictures.
+
+Meanwhile, [Dan][dan] covered the roof of his house with [solar panels](https://danq.me/2014/12/08/solar-power-1/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

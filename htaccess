@@ -3,3 +3,5 @@ layout: none
 permalink: .htaccess
 ---
 AddCharset UTF-8 .html
+RewriteEngine On
+RewriteRule ^(\d{4})(\d{2})(\d{2})\.html$ /$1/$2/$3.html [R,L]

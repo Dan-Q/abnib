@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "It's a week of regrets: Adam G after a bereavement, and Dan after a pizza-related mistake"
+date:   2014-10-04 19:26:05
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Pizza Cake, freshly removed from the oven](https://danq.me/wp-content/uploads/2014/10/wpid-20141003_204147-300x168.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Adam G][adam-g] wrote a poem about [feelings of regret](http://adrokspoems.wordpress.com/2014/09/30/regwets/) at not spending enough time with a departed relative before they died.
+
+Meanwhile, [Dan][dan] hopped on the Internet-pizza-community bandwagon and tried [making pizza cake](https://danq.me/2014/10/04/pizza-cake/), which turned out to be a little disappointing.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Ruth can't tell you how polyamory works"
+date:   2014-10-22 14:33:23
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
-
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Ruth][ruth] couldn't sleep, and so spent her time explaining [why she couldn't explain how polyamory works](http://fleeblewidget.co.uk/2014/10/insomnia/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Bryn write poetry, and Rory shares photos of grafitti and Aberystwyth"
+date:   2015-05-26 20:42:35
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Aberystwyth beach on a warm March day](http://lightpriority.net/wp-content/uploads/2015/05/DSCF0901.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Bryn][bryn] shared [a poem](http://randomlyevil.org.uk/2015/05/22/poetry-corner/), and [Rory][rory] took [photos of grafitti](http://lightpriority.net/2015/05/project-leaving-a-mark/) before sharing a [picture from Aberystwyth in 2012](http://lightpriority.net/2015/05/from-the-archives-1/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

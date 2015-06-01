@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Sian stops her photo-of-the-week project and reads some books, and Dan performs magic for the Internet"
+date:   2015-03-04 19:25:31
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Dan performs with Too Many Cards](https://danq.me/wp-content/uploads/2015/03/too-many-cards-thumb.png)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Sian][sian] brought an [end to her project](https://elgingerbread.wordpress.com/2015/02/26/back-again/) of posting weekly photos of Arianwen, citing 'Share Aware' hypocrisy as a reason, and lost herself [in two books](https://elgingerbread.wordpress.com/2015/03/01/reading-february/). Elsewhere on the Internet, [Dan][dan] performed [one of his favourite card tricks](https://danq.me/2015/03/04/too-many-cards/) for some Redditors.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Sian gets out and about, again, and posts the third photo"
+date:   2015-01-21 11:23:37
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Ari is fascinated with a pine cone](https://elgingerbread.files.wordpress.com/2015/01/3-52.jpg?w=584&h=438)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Sian][sian] got [out and about](https://elgingerbread.wordpress.com/2015/01/18/out-and-about-2/) with little Ari, and provided the [third photo](https://elgingerbread.wordpress.com/2015/01/19/352/) in her project to take 52 consecutive weekly photos of the little tyke.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

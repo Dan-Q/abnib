@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Bryn does comedy, and Dan eats his way out of a cold"
+date:   2015-02-19 00:28:25
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Dan's egg and cheese wafflestack](https://dviz0rgr9k5lo.cloudfront.net/wp-content/uploads/2015/02/DSCF1850-300x225.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Bryn][bryn] began a short course in [improv comedy](http://randomlyevil.org.uk/2015/02/18/yes-and/), and [Dan][dan] recovered from a cold with the help of [egg and waffles](https://danq.me/2015/02/12/health-food/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Rory shares potpourri, and Dan promotes socialism"
+date:   2014-10-12 22:16:14
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Robin](http://lightpriority.net/wp-content/uploads/2014/10/DSCF0962.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Rory][rory] shared a varied [selection of photos](http://lightpriority.net/2014/10/late-summer-photo-potpourri/) that he'd taken over the last few weeks. Meanwhile, [Dan][dan] explained how he and the other Earthlings [use means-assessment to share their household finances](https://danq.me/2014/10/12/household-finances/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

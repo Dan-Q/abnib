@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Bryn knits a hat, and Sian plans for the new year"
+date:   2015-01-04 14:44:13
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![MiniRegz at the park](https://elgingerbread.files.wordpress.com/2015/01/2014-12-21-14-36-15.jpg?w=584)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Bryn][bryn] learned new knitting techniques to enable him to get started on [making himself a hat](http://randomlyevil.org.uk/2014/12/26/mad-hattery/). [Sian][sian] looked forward into 2015 with plans to do more [exercise, outside-things, crocheting, and reading](https://elgingerbread.wordpress.com/2015/01/03/2015/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

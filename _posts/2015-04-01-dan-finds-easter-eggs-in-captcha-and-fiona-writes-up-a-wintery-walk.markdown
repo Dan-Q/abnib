@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Dan finds Easter Eggs in CAPTCHA, and Fiona writes up a wintery walk"
+date:   2015-04-01 10:56:25
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Developers behind Dan's easter egg](https://danq.me/wp-content/uploads/2015/03/greg-marc-blair-dom.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Dan][dan] poked around in the code of some CMS software to get to the bottom of [a CAPTCHA-manipulating Easter Egg](https://danq.me/2015/03/27/squiz-captcha/), and [Fiona][fiona] shared photos from [a wintery walk](https://fionafish.wordpress.com/2015/03/29/its-been-a-while-loch-lubnaig/) she took around Loch Lubnaig in December.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

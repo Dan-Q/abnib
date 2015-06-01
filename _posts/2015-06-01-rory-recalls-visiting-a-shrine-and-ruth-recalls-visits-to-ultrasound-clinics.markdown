@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Rory recalls visiting a shrine, and Ruth recalls visits to ultrasound clinics"
+date:   2015-06-01 12:57:07
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Shrine visited by Rory](http://lightpriority.net/wp-content/uploads/2015/05/DSC2282.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Rory][rory] shared another [photo from his archives](http://lightpriority.net/2015/05/from-the-archives-2/), this time of a Shinto shrine he discovered during his 2011 visit to Kyoto.
+
+[Ruth][ruth] went for an ultrasound scan of the same type as she'd had a few years ago, and shared her experience of [how the NHS has changed](http://fleeblewidget.co.uk/2015/06/outsourced-nhs-services-a-review/) over the intervening years.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

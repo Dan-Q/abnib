@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Bryn and Sian Level Up"
+date:   2015-01-25 15:25:11
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Ari with chubby cheeks](https://elgingerbread.files.wordpress.com/2015/01/photo-151.jpg?w=584&h=779)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Bryn][bryn] and [Sian][sian] both levelled up their fitness scores: Bryn by [going climbing](http://randomlyevil.org.uk/2015/01/25/learning-the-ropes/) with [Penny][penny], and Sian by [joining a 12-week fitness course](https://elgingerbread.wordpress.com/2015/01/25/level-up/).
+
+Sian also shared [the fourth photo](https://elgingerbread.wordpress.com/2015/01/25/452/) in her series of weekly picture of Ari.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

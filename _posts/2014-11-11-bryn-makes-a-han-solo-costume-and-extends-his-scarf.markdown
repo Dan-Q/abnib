@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Bryn makes a Han Solo costume and extends his scarf"
+date:   2014-11-11 12:25:12
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Bryn Solo's blaster](http://randomlyevil.files.wordpress.com/2014/11/wpid-wp-1415262280612.jpeg?w=640)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Bryn][bryn] made [a Han Solo costume](http://randomlyevil.org.uk/2014/11/06/cosplay-learning-by-doing-and-failing/) for [Ruth][ruth]'s 30th birthday party and reported that the scarf he'd been knitting was [now over 9.5 feet long](http://randomlyevil.org.uk/2014/11/08/project-updates-1-knitting/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

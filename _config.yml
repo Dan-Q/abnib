@@ -1,7 +1,7 @@
 name: Abnib
 description: what's going on in the lives of ex-aberites?
 url: http://abnib.co.uk
-permalink: /:year:month:day.html
+permalink: /:year/:month/:day.html
 include: ['bootstrap', 'css', 'fonts', 'images', 'js']
 exclude: ['gen-month', 'new-post', 'scripts', 'README.md']
 paginate: 10

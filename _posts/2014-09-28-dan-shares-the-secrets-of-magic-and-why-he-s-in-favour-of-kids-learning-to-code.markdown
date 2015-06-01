@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Dan shares the secrets of magic and why he's in favour of kids learning to code"
+date:   2014-09-28 14:45:28
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Dan Q with an enormous King of Hearts](http://www.scatmania.org/wp-content/uploads/2014/04/big-card-300x276.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Dan][dan]'s been taking every opportunity to perform magic, and he wanted to share that [the secret is not "secrets"](https://danq.me/2014/09/24/magic/).
+
+He also commented on the recent news that the National Curriculum will include computer programming from Key Stage 1, and shared [why he thinks that's a good idea](https://danq.me/2014/09/28/kids-code/).
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

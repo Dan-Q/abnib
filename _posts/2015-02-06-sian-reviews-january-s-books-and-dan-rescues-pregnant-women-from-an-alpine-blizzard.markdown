@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Sian reviews January's books, and Dan rescues pregnant women from an Alpine blizzard"
+date:   2015-02-06 13:12:57
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Villaflou, in the French Alps](https://danq.me/wp-content/uploads/2015/02/DSCF1818-300x225.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Sian][sian] reviewed [the books she'd been reading](https://elgingerbread.wordpress.com/2015/02/01/reading-january/) in January, and shared [the fourth](https://elgingerbread.wordpress.com/2015/02/01/4-52/) or her weekly pictures of her daughter.
+
+[Dan][dan] went on holiday to the Alps with [Ruth][ruth] and [JTA][jta], where, while out on a geocaching expedition, he ended up [rescuing two lost (pregnant!) women](https://danq.me/2015/02/06/the-right-place-at-the-right-time/) who were trapped on a mountainside.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

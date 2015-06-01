@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Sian gets out and about and takes the second of fifty-two photographs"
+date:   2015-01-12 10:40:08
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![MiniRegz reaches for the shiny camera instead of helping her mother bake.](https://elgingerbread.files.wordpress.com/2015/01/dsc01505.jpg?w=584&h=438)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Sian][sian] got out [to the Newport Wetlands](https://elgingerbread.wordpress.com/2015/01/08/out-and-about/) and shared [the second weekly photo](https://elgingerbread.wordpress.com/2015/01/11/252/) of her daughter. Babap!
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Rory reviews the Fuji XF 14mm lens, and Sian is unreasonably irritated by being a parent"
+date:   2015-01-14 15:12:49
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![York Minister Cathedral (copyright Rory Prior)](http://lightpriority.net/wp-content/uploads/2015/01/DSCF3989.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Rory][rory] provided a [review of his latest camera lens](http://lightpriority.net/2015/01/fuji-xf-14mm-f2-8-r-review/), the Fuji XF 14mm F2.8 R, along with a selection of photographs he took using it. Meanwhile, [Sian][sian] enumerated a selection of things that irritate her, since becoming a parent.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

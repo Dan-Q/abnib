@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Rory chronicles the return of Spring in photographic form, and Dan attends a humanities-centric hackathon"
+date:   2015-04-22 11:59:21
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Rory photographs Stoodley Pike](http://lightpriority.net/wp-content/uploads/2015/04/DSF5532.jpg)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Rory][rory] shared photographs that show [Winter turning to Spring](http://lightpriority.net/2015/04/winter-becomes-spring/) across Yorkshire, while [Dan][dan] wrote up how he last month [attended a hackathon](https://danq.me/2015/04/22/eebo-tcp-hackathon/) scheduled to coincide with the digitisation of 25,000 early English-language printed books.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/

@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Rory goes to Copenhagen, and Sundeep examines self-worth"
-date:   2014-05-02 14:30:56
+title:  "Dan explains his use of a gender-neutral honorific, and Bryn knits himself some handwarmers"
+date:   2014-12-15 16:59:14
 ---
 
-![The Little Mermaid](http://lightpriority.net/wp-content/uploads/2014/04/DSCF7153-900x675.jpg)
+![Bryn's handwarmers](https://randomlyevil.files.wordpress.com/2014/12/img_20141210_2324241.jpg?w=225&h=300)
 
-[Rory][rory] went to Copenhagen and [took lots of photographs](http://lightpriority.net/2014/04/wonderful-copenhagen-part-1/), and [Sundeep][sundeep] considered the topic of [self-worth](https://mentalwillness.wordpress.com/2\
-014/04/28/189/)<!---how feelings of [low self-worth](https://mentalwillness.wordpress.com/2014/04/28/189/) had contributed to her suicide attempt--->.
+[Dan][dan] wrote an explanation about why he sometimes uses ["Mx"](https://danq.me/2014/12/13/mx/) as his honorific title.
+
+Then, [Bryn][bryn] came up with [a wooly solution](http://randomlyevil.org.uk/2014/12/02/project-updates-handwarmers/) to his blue-hand problem.
 
 [adam-g]:  http://strokeyadam.livejournal.com/
 [adam-w]:  http://www.ad-space.org.uk/
